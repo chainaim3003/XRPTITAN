@@ -118,7 +118,7 @@ export default function Navigation() {
                   🛡️ Regulator
                 </Link>
 
-                {/* 9. XRP Test */}
+                {/* 9. XRP Test - HIDDEN FROM UI (code preserved)
                 <Link
                   href="/xrp-test"
                   className={`px-3 py-2 rounded-md text-[15px] font-medium transition-colors whitespace-nowrap ${
@@ -129,6 +129,7 @@ export default function Navigation() {
                 >
                   💎 XRP Test
                 </Link>
+                */}
 
 
               </div>
